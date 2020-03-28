@@ -106,6 +106,14 @@ body {
     margin-bottom: 30px;
 }
 
+p.text {
+    margin: 5px 0;
+}
+
 p.text span{
     color: #6feaf6;
+    margin: 0 5px;
+    border-radius: 3px;
+    background-color: #555;
+    padding: 1px 5px;
 }
